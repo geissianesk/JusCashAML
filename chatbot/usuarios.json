@@ -1,0 +1,97 @@
+{
+    "joao.silva@empresa.com": {
+        "nome": "João Silva",
+        "cargo": "Gerente",
+        "experiencia_anos": 5,
+        "historico_sucesso": 0.75,
+        "projetos_anteriores": [
+            {"duracao": 8, "orcamento": 600000, "sucesso": true},
+            {"duracao": 12, "orcamento": 900000, "sucesso": false}
+        ]
+    },
+    "maria.souza@empresa.com": {
+        "nome": "Maria Souza",
+        "cargo": "Analista",
+        "experiencia_anos": 3,
+        "historico_sucesso": 0.60
+    },
+    "geissianeaguiar@gmail.com": {
+        "nome": "Geissiane Aguiar",
+        "cargo": "Analista",
+        "experiencia_anos": 10,
+        "historico_sucesso": 0.65,
+        "projetos_anteriores": [
+            {"duracao": 8, "orcamento": 600000, "sucesso": true},
+            {"duracao": 6, "orcamento": 300000, "sucesso": true},
+            {"duracao": 10, "orcamento": 750000, "sucesso": true}
+        ]
+    },
+    "carlos.pereira@empresa.com": {
+        "nome": "Carlos Pereira",
+        "cargo": "Desenvolvedor",
+        "experiencia_anos": 7,
+        "historico_sucesso": 0.85,
+        "projetos_anteriores": [
+            {"duracao": 6, "orcamento": 300000, "sucesso": true},
+            {"duracao": 10, "orcamento": 750000, "sucesso": true}
+        ]
+    },
+    "ana.lima@empresa.com": {
+        "nome": "Ana Lima",
+        "cargo": "Gerente de Projetos",
+        "experiencia_anos": 12,
+        "historico_sucesso": 0.92,
+        "projetos_anteriores": [
+            {"duracao": 14, "orcamento": 1200000, "sucesso": true},
+            {"duracao": 9, "orcamento": 800000, "sucesso": true},
+            {"duracao": 11, "orcamento": 1000000, "sucesso": true}
+        ]
+    },
+    "ricardo.alves@empresa.com": {
+        "nome": "Ricardo Alves",
+        "cargo": "Analista de Dados",
+        "experiencia_anos": 4,
+        "historico_sucesso": 0.70,
+        "projetos_anteriores": [
+            {"duracao": 5, "orcamento": 400000, "sucesso": true},
+            {"duracao": 7, "orcamento": 550000, "sucesso": false}
+        ]
+    },
+    "fernanda.martins@empresa.com": {
+        "nome": "Fernanda Martins",
+        "cargo": "Desenvolvedora Sênior",
+        "experiencia_anos": 9,
+        "historico_sucesso": 0.88,
+        "projetos_anteriores": [
+            {"duracao": 10, "orcamento": 950000, "sucesso": true},
+            {"duracao": 8, "orcamento": 700000, "sucesso": true},
+            {"duracao": 6, "orcamento": 500000, "sucesso": false}
+        ]
+    },
+    "lucas.nascimento@empresa.com": {
+        "nome": "Lucas Nascimento",
+        "cargo": "Estagiário",
+        "experiencia_anos": 1,
+        "historico_sucesso": 0.50
+    },
+    "patricia.melo@empresa.com": {
+        "nome": "Patrícia Melo",
+        "cargo": "Consultora",
+        "experiencia_anos": 15,
+        "historico_sucesso": 0.97,
+        "projetos_anteriores": [
+            {"duracao": 18, "orcamento": 1800000, "sucesso": true},
+            {"duracao": 15, "orcamento": 1400000, "sucesso": true},
+            {"duracao": 20, "orcamento": 2000000, "sucesso": true}
+        ]
+    },
+    "eduardo.santos@empresa.com": {
+        "nome": "Eduardo Santos",
+        "cargo": "Analista Júnior",
+        "experiencia_anos": 2,
+        "historico_sucesso": 0.55,
+        "projetos_anteriores": [
+            {"duracao": 6, "orcamento": 450000, "sucesso": true}
+        ]
+    }
+}
